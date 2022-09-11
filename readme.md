@@ -15,17 +15,17 @@
 ***
 ## Description
 
-This project [Street Style Landing Page]() was built using Semantic HTML and CSS. My main aim while building this project was to learn basics of HTML tags & CSS classes. While building this webpage I faced difficulties in postioning the navlist items & images. The problem was solved using positions & Flexbox and its properties like justify-content, align-items, align-self, etc. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Street Style Landing Page](https://street-stylepage.netlify.app/) was built using Semantic HTML and CSS. My main aim while building this project was to learn basics of HTML tags & CSS classes. While building this webpage I faced difficulties in postioning the navlist items & images. The problem was solved using positions & Flexbox and its properties like justify-content, align-items, align-self, etc. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://street-stylepage.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/Ahq4zrktHWs)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Street-Style-Landing-Page)
 
 ***
 ### Built With 
@@ -67,17 +67,17 @@ This project [Street Style Landing Page]() was built using Semantic HTML and CSS
 ### Checkout Portfolio & Other Projects
 <br>
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
 
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
-* [LinkedIn]()
-* [Github]()
-* [Findcoder]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+* [Github](https://github.com/ShubhamSingh03)
+* [Findcoder](https://www.findcoder.io/u/shubham_singh)
 ***
 ***
 [go to top](#street-style-landing-page)
